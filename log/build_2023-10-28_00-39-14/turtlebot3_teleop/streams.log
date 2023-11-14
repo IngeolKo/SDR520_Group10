@@ -1,0 +1,26 @@
+[0.029s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop -- -j4 -l4
+[0.204s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop -- -j4 -l4
+[0.347s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j4 -l4
+[0.532s] Built target tests
+[0.601s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j4 -l4
+[0.748s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target install -- -j4 -l4
+[0.940s] [36mInstall the project...[0m
+[0.986s] -- Install configuration: ""
+[0.990s] + cd /home/ingeolko/turtlebot3-master/turtlebot3_teleop
+[0.990s] + mkdir -p /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages
+[0.992s] + /usr/bin/env PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop /usr/bin/python2 /home/ingeolko/turtlebot3-master/turtlebot3_teleop/setup.py build --build-base /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop install --root=/ --install-layout=deb --prefix=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop --install-scripts=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/bin
+[1.105s] running build
+[1.105s] running build_py
+[1.107s] running install
+[1.107s] running install_lib
+[1.113s] running install_egg_info
+[1.118s] Removing /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop-1.2.6.egg-info
+[1.118s] Writing /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop-1.2.6.egg-info
+[1.138s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig/turtlebot3_teleop.pc
+[1.138s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig.cmake
+[1.138s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig-version.cmake
+[1.138s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/package.xml
+[1.138s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/turtlebot3_teleop/turtlebot3_teleop_key
+[1.139s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch
+[1.139s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch/turtlebot3_teleop_key.launch
+[1.174s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target install -- -j4 -l4

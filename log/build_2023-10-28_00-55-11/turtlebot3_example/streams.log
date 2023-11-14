@@ -1,0 +1,178 @@
+[0.021s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example -- -j4 -l4
+[0.088s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.125s] [  0%] Built target std_msgs_generate_messages_eus
+[0.141s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Action
+[0.142s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionGoal
+[0.150s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Feedback
+[0.179s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.186s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionFeedback
+[0.215s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Goal
+[0.231s] [  0%] Built target std_msgs_generate_messages_py
+[0.242s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Result
+[0.252s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionResult
+[0.278s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.285s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.294s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.305s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.323s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.325s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.332s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.358s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.361s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.372s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.377s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.400s] [ 18%] Built target turtlebot3_example_generate_messages_lisp
+[0.401s] [ 40%] Built target turtlebot3_example_generate_messages_eus
+[0.409s] [ 62%] Built target turtlebot3_example_generate_messages_py
+[0.411s] [ 81%] Built target turtlebot3_example_generate_messages_nodejs
+[0.427s] [100%] Built target turtlebot3_example_generate_messages_cpp
+[0.452s] [100%] Built target turtlebot3_example_generate_messages
+[0.463s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example -- -j4 -l4
+[0.553s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example --target tests -- -j4 -l4
+[0.618s] Built target tests
+[0.630s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example --target tests -- -j4 -l4
+[0.753s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example --target install -- -j4 -l4
+[0.854s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.862s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Action
+[0.862s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionGoal
+[0.869s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Feedback
+[0.885s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.886s] [  0%] Built target std_msgs_generate_messages_eus
+[0.915s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Goal
+[0.933s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3Result
+[0.936s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionFeedback
+[0.936s] [  0%] Built target _turtlebot3_example_generate_messages_check_deps_Turtlebot3ActionResult
+[0.945s] [  0%] Built target std_msgs_generate_messages_py
+[0.959s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.963s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.969s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.980s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.981s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.998s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.998s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.002s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.006s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.017s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.025s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.029s] [ 21%] Built target turtlebot3_example_generate_messages_eus
+[1.040s] [ 43%] Built target turtlebot3_example_generate_messages_py
+[1.051s] [ 62%] Built target turtlebot3_example_generate_messages_lisp
+[1.051s] [ 81%] Built target turtlebot3_example_generate_messages_cpp
+[1.053s] [100%] Built target turtlebot3_example_generate_messages_nodejs
+[1.078s] [100%] Built target turtlebot3_example_generate_messages
+[1.098s] [36mInstall the project...[0m
+[1.105s] -- Install configuration: ""
+[1.106s] + cd /home/ingeolko/turtlebot3-master/turtlebot3_example
+[1.106s] + mkdir -p /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages
+[1.107s] + /usr/bin/env PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/build/turtlebot3_example/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/ingeolko/turtlebot3-master/build/turtlebot3_example /usr/bin/python2 /home/ingeolko/turtlebot3-master/turtlebot3_example/setup.py build --build-base /home/ingeolko/turtlebot3-master/build/turtlebot3_example install --root=/ --install-layout=deb --prefix=/home/ingeolko/turtlebot3-master/install/turtlebot3_example --install-scripts=/home/ingeolko/turtlebot3-master/install/turtlebot3_example/bin
+[1.139s] running build
+[1.140s] running build_py
+[1.141s] running install
+[1.141s] running install_lib
+[1.142s] running install_egg_info
+[1.142s] Removing /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example-1.2.6.egg-info
+[1.142s] Writing /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example-1.2.6.egg-info
+[1.146s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/action/Turtlebot3.action
+[1.146s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3Action.msg
+[1.146s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3ActionGoal.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3ActionResult.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3ActionFeedback.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3Goal.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3Result.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/msg/Turtlebot3Feedback.msg
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/cmake/turtlebot3_example-msg-paths.cmake
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3ActionResult.h
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3ActionFeedback.h
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3Goal.h
+[1.147s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3Result.h
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3Feedback.h
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3ActionGoal.h
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/include/turtlebot3_example/Turtlebot3Action.h
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3ActionResult.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3ActionGoal.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3Feedback.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3Goal.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3Action.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3ActionFeedback.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/msg/Turtlebot3Result.l
+[1.148s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/roseus/ros/turtlebot3_example/manifest.l
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3ActionFeedback.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3Feedback.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3Goal.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3Result.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3Goal.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/turtlebot3_example-msg.asd
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3ActionResult.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3ActionGoal.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3Action.lisp
+[1.149s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3ActionGoal.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3ActionResult.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3Feedback.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3Action.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3Result.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3ActionFeedback.lisp
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3ActionResult.js
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3Action.js
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/_index.js
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3Goal.js
+[1.150s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3ActionGoal.js
+[1.151s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3Result.js
+[1.151s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3Feedback.js
+[1.151s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/msg/Turtlebot3ActionFeedback.js
+[1.151s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/_index.js
+[1.161s] Listing /home/ingeolko/turtlebot3-master/build/turtlebot3_example/devel/lib/python2.7/dist-packages/turtlebot3_example ...
+[1.162s] Listing /home/ingeolko/turtlebot3-master/build/turtlebot3_example/devel/lib/python2.7/dist-packages/turtlebot3_example/msg ...
+[1.166s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example
+[1.166s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg
+[1.166s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.pyc
+[1.166s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.pyc
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.pyc
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.pyc
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.pyc
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.pyc
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py
+[1.167s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.pyc
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/__init__.py
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages/turtlebot3_example/msg/__init__.pyc
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig/turtlebot3_example.pc
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/cmake/turtlebot3_example-msg-extras.cmake
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/cmake/turtlebot3_exampleConfig.cmake
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/cmake/turtlebot3_exampleConfig-version.cmake
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/package.xml
+[1.168s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_obstacle
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_client
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_server
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_pointop_key
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_bumper
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_cliff
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_sonar
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_illumination
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/turtlebot3_example/turtlebot3_marker_server
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_sonar.launch
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_client.launch
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_obstacle.launch
+[1.169s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_bumper.launch
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_pointop_key.launch
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/interactive_markers.launch
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_cliff.launch
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/launch/turtlebot3_illumination.launch
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/rviz
+[1.170s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_example/share/turtlebot3_example/rviz/turtlebot3_interactive.rviz
+[1.179s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_example' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation:/home/ingeolko/turtlebot3-master/install/turtlebot3_example:/opt/ros/melodic PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:/home/ingeolko/turtlebot3-master/install/turtlebot3/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_example/share:/opt/ros/melodic/share /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_example --target install -- -j4 -l4

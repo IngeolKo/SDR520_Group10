@@ -1,0 +1,95 @@
+[0.012s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_description
+[0.073s] -- The C compiler identification is GNU 7.5.0
+[0.133s] -- The CXX compiler identification is GNU 7.5.0
+[0.138s] -- Check for working C compiler: /usr/bin/cc
+[0.199s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.199s] -- Detecting C compiler ABI info
+[0.264s] -- Detecting C compiler ABI info - done
+[0.273s] -- Detecting C compile features
+[0.467s] -- Detecting C compile features - done
+[0.471s] -- Check for working CXX compiler: /usr/bin/c++
+[0.547s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.547s] -- Detecting CXX compiler ABI info
+[0.623s] -- Detecting CXX compiler ABI info - done
+[0.632s] -- Detecting CXX compile features
+[0.957s] -- Detecting CXX compile features - done
+[0.959s] -- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_description/devel
+[0.959s] -- Using CMAKE_PREFIX_PATH: /opt/ros/melodic
+[0.959s] -- This workspace overlays: /opt/ros/melodic
+[0.972s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[0.972s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[0.972s] -- Using Debian Python package layout
+[0.972s] -- Using empy: /usr/bin/empy
+[1.125s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.125s] -- Call enable_testing()
+[1.128s] -- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_description/test_results
+[1.145s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.145s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.157s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.158s] -- Looking for pthread.h
+[1.222s] -- Looking for pthread.h - found
+[1.222s] -- Looking for pthread_create
+[1.286s] -- Looking for pthread_create - not found
+[1.287s] -- Looking for pthread_create in pthreads
+[1.342s] -- Looking for pthread_create in pthreads - not found
+[1.342s] -- Looking for pthread_create in pthread
+[1.405s] -- Looking for pthread_create in pthread - found
+[1.406s] -- Found Threads: TRUE  
+[1.410s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.450s] -- catkin 0.7.29
+[1.450s] -- BUILD_SHARED_LIBS is on
+[1.783s] -- Configuring done
+[1.798s] -- Generating done
+[1.801s] -- Build files have been written to: /home/ingeolko/turtlebot3-master/build/turtlebot3_description
+[1.806s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_description
+[1.809s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+[1.850s] [35m[1mScanning dependencies of target turtlebot3_description_xacro_generated_to_devel_space_[0m
+[1.862s] Built target turtlebot3_description_xacro_generated_to_devel_space_
+[1.874s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+[1.908s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+[1.960s] [35m[1mScanning dependencies of target tests[0m
+[1.970s] Built target tests
+[1.982s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+[2.030s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4
+[2.080s] Built target turtlebot3_description_xacro_generated_to_devel_space_
+[2.099s] [36mInstall the project...[0m
+[2.109s] -- Install configuration: ""
+[2.109s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig/turtlebot3_description.pc
+[2.109s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake
+[2.110s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake
+[2.110s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/package.xml
+[2.110s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes
+[2.110s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels
+[2.110s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/left_tire.stl
+[2.112s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/right_tire.stl
+[2.113s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases
+[2.114s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_pi_base_for_open_manipulator.stl
+[2.118s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_pi_base.stl
+[2.123s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/burger_base.stl
+[2.126s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_base.stl
+[2.134s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_base_for_open_manipulator.stl
+[2.303s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors
+[2.303s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.dae
+[2.529s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.jpg
+[2.529s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/lds.stl
+[2.530s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.jpg
+[2.530s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.dae
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/rviz
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/rviz/burger.rviz
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/rviz/waffle_pi.rviz
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger.urdf.xacro
+[3.499s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/common_properties.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle.gazebo.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger_for_autorace_2020.urdf.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger_for_autorace.urdf.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle.urdf.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger_for_autorace.gazebo.xacro
+[3.500s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger.gazebo.xacro
+[3.501s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger_for_autorace_2020.gazebo.xacro
+[3.501s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi.gazebo.xacro
+[3.501s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi_for_open_manipulator.gazebo.xacro
+[3.502s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_for_open_manipulator.urdf.xacro
+[3.502s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi_for_open_manipulator.urdf.xacro
+[3.502s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi.urdf.xacro
+[3.507s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4

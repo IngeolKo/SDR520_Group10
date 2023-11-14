@@ -1,0 +1,8 @@
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_teleop -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_teleop -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target install -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop --target install -- -j4 -l4

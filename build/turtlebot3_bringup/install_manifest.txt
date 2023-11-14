@@ -1,0 +1,15 @@
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig/turtlebot3_bringup.pc
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/create_udev_rules
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_lidar.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes/description.launch.xml
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_core.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_remote.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_rpicamera.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_model.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_realsense.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_robot.launch
+/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/99-turtlebot3-cdc.rules

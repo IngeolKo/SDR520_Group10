@@ -1,0 +1,164 @@
+[0.025s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_slam -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_slam
+[0.262s] -- The C compiler identification is GNU 7.5.0
+[0.331s] -- The CXX compiler identification is GNU 7.5.0
+[0.335s] -- Check for working C compiler: /usr/bin/cc
+[0.415s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.415s] -- Detecting C compiler ABI info
+[0.484s] -- Detecting C compiler ABI info - done
+[0.493s] -- Detecting C compile features
+[0.701s] -- Detecting C compile features - done
+[0.703s] -- Check for working CXX compiler: /usr/bin/c++
+[0.778s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.778s] -- Detecting CXX compiler ABI info
+[0.859s] -- Detecting CXX compiler ABI info - done
+[0.867s] -- Detecting CXX compile features
+[1.203s] -- Detecting CXX compile features - done
+[1.205s] -- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_slam/devel
+[1.205s] -- Using CMAKE_PREFIX_PATH: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup;/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[1.205s] -- This workspace overlays: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup;/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[1.220s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.220s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.221s] -- Using Debian Python package layout
+[1.221s] -- Using empy: /usr/bin/empy
+[1.361s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.361s] -- Call enable_testing()
+[1.364s] -- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_slam/test_results
+[1.383s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.383s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.395s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.397s] -- Looking for pthread.h
+[1.462s] -- Looking for pthread.h - found
+[1.463s] -- Looking for pthread_create
+[1.538s] -- Looking for pthread_create - not found
+[1.544s] -- Looking for pthread_create in pthreads
+[1.595s] -- Looking for pthread_create in pthreads - not found
+[1.595s] -- Looking for pthread_create in pthread
+[1.661s] -- Looking for pthread_create in pthread - found
+[1.662s] -- Found Threads: TRUE  
+[1.666s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.707s] -- catkin 0.7.29
+[1.707s] -- BUILD_SHARED_LIBS is on
+[2.025s] -- Configuring done
+[2.044s] -- Generating done
+[2.051s] -- Build files have been written to: /home/ingeolko/turtlebot3-master/build/turtlebot3_slam
+[2.053s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_slam -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_slam
+[2.058s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam -- -j4 -l4
+[2.101s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[2.101s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[2.101s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[2.103s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[2.111s] [  0%] Built target geometry_msgs_generate_messages_py
+[2.111s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.119s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[2.124s] [  0%] Built target std_msgs_generate_messages_eus
+[2.131s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[2.136s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[2.139s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[2.139s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[2.148s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.157s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.159s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[2.159s] [  0%] Built target roscpp_generate_messages_py
+[2.170s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[2.171s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[2.171s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[2.178s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[2.181s] [  0%] Built target geometry_msgs_generate_messages_eus
+[2.184s] [  0%] Built target roscpp_generate_messages_eus
+[2.184s] [  0%] Built target std_msgs_generate_messages_py
+[2.192s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.192s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[2.198s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[2.205s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[2.206s] [  0%] Built target roscpp_generate_messages_lisp
+[2.206s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[2.215s] [  0%] Built target std_msgs_generate_messages_cpp
+[2.216s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[2.216s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[2.231s] [  0%] Built target sensor_msgs_generate_messages_py
+[2.231s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[2.232s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[2.236s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[2.239s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.243s] [  0%] Built target sensor_msgs_generate_messages_eus
+[2.246s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.254s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[2.254s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.264s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[2.269s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[2.272s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[2.273s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[2.280s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[2.281s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[2.291s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[2.291s] [  0%] Built target roscpp_generate_messages_cpp
+[2.298s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[2.307s] [35m[1mScanning dependencies of target flat_world_imu_node[0m
+[2.328s] [ 50%] [32mBuilding CXX object CMakeFiles/flat_world_imu_node.dir/src/flat_world_imu_node.cpp.o[0m
+[3.934s] [100%] [32m[1mLinking CXX executable devel/lib/turtlebot3_slam/flat_world_imu_node[0m
+[4.184s] [100%] Built target flat_world_imu_node
+[4.197s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam -- -j4 -l4
+[4.426s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam --target tests -- -j4 -l4
+[4.570s] [35m[1mScanning dependencies of target tests[0m
+[4.606s] Built target tests
+[4.643s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam --target tests -- -j4 -l4
+[4.718s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam --target install -- -j4 -l4
+[4.871s] [  0%] Built target std_msgs_generate_messages_eus
+[4.900s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.917s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.921s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.944s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.947s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[4.952s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.953s] [  0%] Built target roscpp_generate_messages_py
+[4.971s] [  0%] Built target std_msgs_generate_messages_py
+[4.972s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.972s] [  0%] Built target geometry_msgs_generate_messages_eus
+[4.976s] [  0%] Built target roscpp_generate_messages_eus
+[4.991s] [  0%] Built target roscpp_generate_messages_lisp
+[4.991s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.995s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.997s] [  0%] Built target sensor_msgs_generate_messages_py
+[5.018s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[5.024s] [  0%] Built target std_msgs_generate_messages_lisp
+[5.031s] [  0%] Built target std_msgs_generate_messages_nodejs
+[5.040s] [  0%] Built target sensor_msgs_generate_messages_eus
+[5.045s] [  0%] Built target roscpp_generate_messages_cpp
+[5.046s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[5.051s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[5.069s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[5.069s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[5.093s] [100%] Built target flat_world_imu_node
+[5.111s] [36mInstall the project...[0m
+[5.119s] -- Install configuration: ""
+[5.120s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/pkgconfig/turtlebot3_slam.pc
+[5.120s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake
+[5.120s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake
+[5.120s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/package.xml
+[5.120s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/turtlebot3_slam/flat_world_imu_node
+[5.120s] -- Set runtime path of "/home/ingeolko/turtlebot3-master/install/turtlebot3_slam/lib/turtlebot3_slam/flat_world_imu_node" to ""
+[5.121s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/include/turtlebot3_slam
+[5.121s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/include/turtlebot3_slam/flat_world_imu_node.h
+[5.121s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/bag
+[5.121s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/bag/bag_files.md
+[5.121s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config
+[5.122s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config/turtlebot3_lds_2d_gazebo.lua
+[5.122s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config/karto_mapper_params.yaml
+[5.122s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config/frontier_exploration.yaml
+[5.123s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config/turtlebot3_lds_2d.lua
+[5.123s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/config/gmapping_params.yaml
+[5.123s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch
+[5.123s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_frontier_exploration.launch
+[5.124s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_hector.launch
+[5.124s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_slam.launch
+[5.124s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_gmapping.launch
+[5.125s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_cartographer.launch
+[5.125s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_manipulation_slam.launch
+[5.125s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/launch/turtlebot3_karto.launch
+[5.125s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz
+[5.126s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz/turtlebot3_frontier_exploration.rviz
+[5.126s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz/turtlebot3_cartographer.rviz
+[5.126s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz/turtlebot3_hector.rviz
+[5.127s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz/turtlebot3_karto.rviz
+[5.127s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_slam/share/turtlebot3_slam/rviz/turtlebot3_gmapping.rviz
+[5.132s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_slam' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_slam --target install -- -j4 -l4

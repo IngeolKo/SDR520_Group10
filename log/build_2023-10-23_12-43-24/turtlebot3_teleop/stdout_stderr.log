@@ -1,0 +1,68 @@
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/devel
+-- Using CMAKE_PREFIX_PATH: /opt/ros/melodic
+-- This workspace overlays: /opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.29
+-- BUILD_SHARED_LIBS is on
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop
+[35m[1mScanning dependencies of target tests[0m
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: ""
++ cd /home/ingeolko/turtlebot3-master/turtlebot3_teleop
++ mkdir -p /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages
++ /usr/bin/env PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/ingeolko/turtlebot3-master/build/turtlebot3_teleop /usr/bin/python2 /home/ingeolko/turtlebot3-master/turtlebot3_teleop/setup.py build --build-base /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop install --root=/ --install-layout=deb --prefix=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop --install-scripts=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/bin
+running build
+running build_py
+creating /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib.linux-x86_64-2.7
+creating /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib.linux-x86_64-2.7/turtlebot3_teleop
+copying src/turtlebot3_teleop/__init__.py -> /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib.linux-x86_64-2.7/turtlebot3_teleop
+running install
+running install_lib
+creating /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop
+copying /home/ingeolko/turtlebot3-master/build/turtlebot3_teleop/lib.linux-x86_64-2.7/turtlebot3_teleop/__init__.py -> /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop
+byte-compiling /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py to __init__.pyc
+running install_egg_info
+Writing /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop-1.2.6.egg-info
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig/turtlebot3_teleop.pc
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig.cmake
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig-version.cmake
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/package.xml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/turtlebot3_teleop/turtlebot3_teleop_key
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch/turtlebot3_teleop_key.launch

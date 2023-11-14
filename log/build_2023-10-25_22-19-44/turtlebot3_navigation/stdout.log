@@ -1,0 +1,70 @@
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation/devel
+-- Using CMAKE_PREFIX_PATH: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup;/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+-- This workspace overlays: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup;/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.29
+-- BUILD_SHARED_LIBS is on
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation
+[35m[1mScanning dependencies of target tests[0m
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig/turtlebot3_navigation.pc
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig.cmake
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig-version.cmake
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/package.xml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/amcl.launch
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/turtlebot3_navigation.launch
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/move_base.launch
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps/map.pgm
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps/map.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_waffle_pi.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/local_costmap_params.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_burger.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_burger.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_waffle_pi.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/base_local_planner_params.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/move_base_params.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_waffle.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/global_costmap_params.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_waffle.yaml
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/rviz
+-- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/rviz/turtlebot3_navigation.rviz

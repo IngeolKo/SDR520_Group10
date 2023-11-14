@@ -1,0 +1,2 @@
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '1': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup

@@ -1,0 +1,30 @@
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3_navigation/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3_navigation/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+Built target tests
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3_navigation/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3_navigation where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/lib/pkgconfig/turtlebot3_navigation.pc
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig.cmake
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig-version.cmake
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/package.xml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/amcl.launch
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/turtlebot3_navigation.launch
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/launch/move_base.launch
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps/map.pgm
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/maps/map.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_waffle_pi.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/local_costmap_params.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_burger.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_burger.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_waffle_pi.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/base_local_planner_params.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/move_base_params.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/costmap_common_params_waffle.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/global_costmap_params.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/param/dwa_local_planner_params_waffle.yaml
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/rviz
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_navigation/share/turtlebot3_navigation/rviz/turtlebot3_navigation.rviz

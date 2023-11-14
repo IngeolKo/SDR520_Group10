@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ingeolko/turtlebot3-master/build/turtlebot3_slam/devel/setup.sh

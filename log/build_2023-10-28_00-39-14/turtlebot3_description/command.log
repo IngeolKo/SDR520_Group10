@@ -1,0 +1,6 @@
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4

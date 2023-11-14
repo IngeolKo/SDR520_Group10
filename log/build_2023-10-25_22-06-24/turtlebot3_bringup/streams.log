@@ -1,0 +1,38 @@
+[0.031s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup
+[0.058s] -- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/devel
+[0.058s] -- Using CMAKE_PREFIX_PATH: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.059s] -- This workspace overlays: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.077s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[0.077s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[0.077s] -- Using Debian Python package layout
+[0.077s] -- Using empy: /usr/bin/empy
+[0.275s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.275s] -- Call enable_testing()
+[0.276s] -- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/test_results
+[0.302s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[0.303s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[0.321s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[0.332s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[0.379s] -- catkin 0.7.29
+[0.379s] -- BUILD_SHARED_LIBS is on
+[0.574s] -- Could NOT find turtlebot3_msgs (missing: turtlebot3_msgs_DIR)
+[0.575s] -- Could not find the required component 'turtlebot3_msgs'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.
+[0.575s] CMake Error at /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+[0.575s]   Could not find a package configuration file provided by "turtlebot3_msgs"
+[0.575s]   with any of the following names:
+[0.575s] 
+[0.575s]     turtlebot3_msgsConfig.cmake
+[0.575s]     turtlebot3_msgs-config.cmake
+[0.575s] 
+[0.575s]   Add the installation prefix of "turtlebot3_msgs" to CMAKE_PREFIX_PATH or
+[0.575s]   set "turtlebot3_msgs_DIR" to a directory containing one of the above files.
+[0.575s]   If "turtlebot3_msgs" provides a separate development package or SDK, be
+[0.575s]   sure it has been installed.
+[0.576s] Call Stack (most recent call first):
+[0.576s]   CMakeLists.txt:13 (find_package)
+[0.576s] 
+[0.576s] 
+[0.576s] -- Configuring incomplete, errors occurred!
+[0.576s] See also "/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/CMakeFiles/CMakeOutput.log".
+[0.576s] See also "/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/CMakeFiles/CMakeError.log".
+[0.583s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '1': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup

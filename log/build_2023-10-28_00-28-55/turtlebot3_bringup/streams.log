@@ -1,0 +1,98 @@
+[0.010s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup -- -j4 -l4
+[0.074s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[0.077s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[0.083s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[0.091s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[0.115s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.120s] [  0%] Built target std_msgs_generate_messages_eus
+[0.123s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.145s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.159s] [  0%] Built target roscpp_generate_messages_py
+[0.161s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.166s] [  0%] Built target std_msgs_generate_messages_py
+[0.175s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.187s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.197s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.206s] [  0%] Built target roscpp_generate_messages_eus
+[0.210s] [  0%] Built target roscpp_generate_messages_lisp
+[0.229s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.232s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.232s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[0.241s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.257s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.261s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[0.275s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.276s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.282s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.303s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.305s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.318s] [  0%] Built target roscpp_generate_messages_cpp
+[0.328s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[0.332s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[0.336s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.356s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[0.361s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.365s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.365s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[0.389s] [100%] Built target turtlebot3_diagnostics
+[0.400s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup -- -j4 -l4
+[0.443s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j4 -l4
+[0.503s] Built target tests
+[0.516s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j4 -l4
+[0.561s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target install -- -j4 -l4
+[0.610s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[0.611s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[0.611s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[0.619s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[0.635s] [  0%] Built target std_msgs_generate_messages_eus
+[0.643s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.652s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.658s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.663s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.678s] [  0%] Built target roscpp_generate_messages_py
+[0.680s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.692s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.698s] [  0%] Built target std_msgs_generate_messages_py
+[0.710s] [  0%] Built target roscpp_generate_messages_eus
+[0.711s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.719s] [  0%] Built target roscpp_generate_messages_lisp
+[0.732s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.739s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.740s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.748s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[0.767s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.776s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[0.776s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.783s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.804s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.811s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.813s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[0.822s] [  0%] Built target roscpp_generate_messages_cpp
+[0.835s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.844s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[0.850s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.856s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.860s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.866s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[0.876s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[0.900s] [100%] Built target turtlebot3_diagnostics
+[0.920s] [36mInstall the project...[0m
+[0.928s] -- Install configuration: ""
+[0.928s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig/turtlebot3_bringup.pc
+[0.929s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[0.929s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[0.929s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[0.929s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics
+[0.929s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/create_udev_rules
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_lidar.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes/description.launch.xml
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_core.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_remote.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_rpicamera.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_model.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_realsense.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_robot.launch
+[0.930s] -- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/99-turtlebot3-cdc.rules
+[0.932s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target install -- -j4 -l4

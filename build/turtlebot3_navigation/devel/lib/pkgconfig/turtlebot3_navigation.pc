@@ -1,0 +1,8 @@
+prefix=/home/ingeolko/turtlebot3-master/build/turtlebot3_navigation/devel
+
+Name: turtlebot3_navigation
+Description: Description of turtlebot3_navigation
+Version: 1.2.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

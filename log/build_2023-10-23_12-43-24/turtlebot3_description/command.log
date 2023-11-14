@@ -1,0 +1,8 @@
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_description
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_description
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target tests -- -j4 -l4
+Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4
+Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_description --target install -- -j4 -l4

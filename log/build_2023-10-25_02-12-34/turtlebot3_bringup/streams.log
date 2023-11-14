@@ -1,0 +1,38 @@
+[0.013s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup
+[0.034s] -- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/devel
+[0.035s] -- Using CMAKE_PREFIX_PATH: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.035s] -- This workspace overlays: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.061s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[0.061s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[0.061s] -- Using Debian Python package layout
+[0.061s] -- Using empy: /usr/bin/empy
+[0.191s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.192s] -- Call enable_testing()
+[0.193s] -- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/test_results
+[0.212s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[0.213s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[0.225s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[0.232s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[0.270s] -- catkin 0.7.29
+[0.270s] -- BUILD_SHARED_LIBS is on
+[0.518s] -- Could NOT find turtlebot3_msgs (missing: turtlebot3_msgs_DIR)
+[0.518s] -- Could not find the required component 'turtlebot3_msgs'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.
+[0.518s] CMake Error at /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+[0.519s]   Could not find a package configuration file provided by "turtlebot3_msgs"
+[0.519s]   with any of the following names:
+[0.519s] 
+[0.519s]     turtlebot3_msgsConfig.cmake
+[0.519s]     turtlebot3_msgs-config.cmake
+[0.519s] 
+[0.519s]   Add the installation prefix of "turtlebot3_msgs" to CMAKE_PREFIX_PATH or
+[0.519s]   set "turtlebot3_msgs_DIR" to a directory containing one of the above files.
+[0.519s]   If "turtlebot3_msgs" provides a separate development package or SDK, be
+[0.519s]   sure it has been installed.
+[0.519s] Call Stack (most recent call first):
+[0.520s]   CMakeLists.txt:13 (find_package)
+[0.520s] 
+[0.520s] 
+[0.520s] -- Configuring incomplete, errors occurred!
+[0.520s] See also "/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/CMakeFiles/CMakeOutput.log".
+[0.520s] See also "/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/CMakeFiles/CMakeError.log".
+[0.522s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '1': CMAKE_PREFIX_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop:/home/ingeolko/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/ingeolko/turtlebot3-master/install/turtlebot3_teleop/share:/home/ingeolko/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup

@@ -1,0 +1,90 @@
+[0.000000] (-) TimerEvent: {}
+[0.000962] (turtlebot3_example) JobQueued: {'identifier': 'turtlebot3_example', 'dependencies': OrderedDict()}
+[0.001001] (turtlebot3_example) JobStarted: {'identifier': 'turtlebot3_example'}
+[0.009281] (turtlebot3_example) JobProgress: {'identifier': 'turtlebot3_example', 'progress': 'cmake'}
+[0.009550] (turtlebot3_example) Command: {'cmd': ['/usr/bin/cmake', '/home/ingeolko/turtlebot3-master/turtlebot3_example', '-DCATKIN_INSTALL_INTO_PREFIX_ROOT=0', '-DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/turtlebot3_example/install/turtlebot3_example'], 'cwd': '/home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'ingeolko'), ('LANGUAGE', 'en_CA:en'), ('TEXTDOMAIN', 'im-config'), ('XDG_SEAT', 'seat0'), ('SSH_AGENT_PID', '1640'), ('XDG_SESSION_TYPE', 'x11'), ('ROS_PACKAGE_PATH', '/opt/ros/melodic/share'), ('LD_LIBRARY_PATH', '/opt/ros/melodic/lib'), ('ROS_ETC_DIR', '/opt/ros/melodic/etc/ros'), ('SHLVL', '1'), ('QT4_IM_MODULE', 'xim'), ('HOME', '/home/ingeolko'), ('OLDPWD', '/home/ingeolko/turtlebot3-master'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('ROS_PYTHON_VERSION', '2'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '32653'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator20x1a6021154d881c'), ('IM_CONFIG_PHASE', '2'), ('ROS_DISTRO', 'melodic'), ('LOGNAME', 'ingeolko'), ('GTK_IM_MODULE', 'ibus'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '1'), ('PKG_CONFIG_PATH', '/opt/ros/melodic/lib/pkgconfig'), ('USERNAME', 'ingeolko'), ('XDG_SESSION_ID', '2'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/melodic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/ingeolko-VirtualBox:@/tmp/.ICE-unix/1545,unix/ingeolko-VirtualBox:/tmp/.ICE-unix/1545'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('LANG', 'en_CA.UTF-8'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('ROS_ROOT', '/opt/ros/melodic/share/ros'), ('XMODIFIERS', '@im=ibus'), ('ROSLISP_PACKAGE_DIRECTORIES', ''), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('TERMINATOR_UUID', 'urn:uuid:a15951c1-2c9a-4b7b-8ecd-74a90e049b86'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('TEXTDOMAINDIR', '/usr/share/locale/'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('XDG_VTNR', '2'), ('QT_IM_MODULE', 'xim'), ('PWD', '/home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example'), ('CLUTTER_IM_MODULE', 'xim'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('PYTHONPATH', '/opt/ros/melodic/lib/python2.7/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '5202'), ('CMAKE_PREFIX_PATH', '/opt/ros/melodic')]), 'shell': False}
+[0.099913] (-) TimerEvent: {}
+[0.246729] (-) TimerEvent: {}
+[0.347881] (-) TimerEvent: {}
+[0.355358] (turtlebot3_example) StdoutLine: {'line': b'-- The C compiler identification is GNU 7.5.0\n'}
+[0.452523] (-) TimerEvent: {}
+[0.554032] (-) TimerEvent: {}
+[0.574145] (turtlebot3_example) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 7.5.0\n'}
+[0.584870] (turtlebot3_example) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[0.654633] (-) TimerEvent: {}
+[0.654937] (turtlebot3_example) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[0.656620] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.720827] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.730452] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.757275] (-) TimerEvent: {}
+[0.858013] (-) TimerEvent: {}
+[0.922218] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.927120] (turtlebot3_example) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[0.958613] (-) TimerEvent: {}
+[1.000103] (turtlebot3_example) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[1.000675] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[1.059232] (-) TimerEvent: {}
+[1.072618] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[1.080909] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[1.160849] (-) TimerEvent: {}
+[1.262497] (-) TimerEvent: {}
+[1.363152] (-) TimerEvent: {}
+[1.402448] (turtlebot3_example) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[1.408460] (turtlebot3_example) StdoutLine: {'line': b'-- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example/devel\n'}
+[1.408735] (turtlebot3_example) StdoutLine: {'line': b'-- Using CMAKE_PREFIX_PATH: /opt/ros/melodic\n'}
+[1.408834] (turtlebot3_example) StdoutLine: {'line': b'-- This workspace overlays: /opt/ros/melodic\n'}
+[1.454453] (turtlebot3_example) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") \n'}
+[1.454719] (turtlebot3_example) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python2\n'}
+[1.454909] (turtlebot3_example) StdoutLine: {'line': b'-- Using Debian Python package layout\n'}
+[1.455196] (turtlebot3_example) StdoutLine: {'line': b'-- Using empy: /usr/bin/empy\n'}
+[1.463795] (-) TimerEvent: {}
+[1.564250] (-) TimerEvent: {}
+[1.600270] (turtlebot3_example) StdoutLine: {'line': b'-- Using CATKIN_ENABLE_TESTING: ON\n'}
+[1.600511] (turtlebot3_example) StdoutLine: {'line': b'-- Call enable_testing()\n'}
+[1.602943] (turtlebot3_example) StdoutLine: {'line': b'-- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example/test_results\n'}
+[1.630492] (turtlebot3_example) StdoutLine: {'line': b"-- Found gtest sources under '/usr/src/googletest': gtests will be built\n"}
+[1.630783] (turtlebot3_example) StdoutLine: {'line': b"-- Found gmock sources under '/usr/src/googletest': gmock will be built\n"}
+[1.644593] (turtlebot3_example) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") \n'}
+[1.647407] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[1.664510] (-) TimerEvent: {}
+[1.726057] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[1.727009] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create\n'}
+[1.764788] (-) TimerEvent: {}
+[1.792992] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create - not found\n'}
+[1.793430] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads\n'}
+[1.847623] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads - not found\n'}
+[1.847953] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create in pthread\n'}
+[1.865105] (-) TimerEvent: {}
+[1.911847] (turtlebot3_example) StdoutLine: {'line': b'-- Looking for pthread_create in pthread - found\n'}
+[1.912844] (turtlebot3_example) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[1.917626] (turtlebot3_example) StdoutLine: {'line': b'-- Using Python nosetests: /usr/bin/nosetests-2.7\n'}
+[1.967036] (-) TimerEvent: {}
+[1.983858] (turtlebot3_example) StdoutLine: {'line': b'-- catkin 0.7.29\n'}
+[1.984105] (turtlebot3_example) StdoutLine: {'line': b'-- BUILD_SHARED_LIBS is on\n'}
+[2.068672] (-) TimerEvent: {}
+[2.128760] (turtlebot3_example) StdoutLine: {'line': b'-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy\n'}
+[2.169365] (-) TimerEvent: {}
+[2.269938] (-) TimerEvent: {}
+[2.304549] (turtlebot3_example) StdoutLine: {'line': b'-- Could NOT find turtlebot3_msgs (missing: turtlebot3_msgs_DIR)\n'}
+[2.304754] (turtlebot3_example) StdoutLine: {'line': b"-- Could not find the required component 'turtlebot3_msgs'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.\n"}
+[2.304843] (turtlebot3_example) StderrLine: {'line': b'CMake Error at /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):\n'}
+[2.304955] (turtlebot3_example) StderrLine: {'line': b'  Could not find a package configuration file provided by "turtlebot3_msgs"\n'}
+[2.305062] (turtlebot3_example) StderrLine: {'line': b'  with any of the following names:\n'}
+[2.305138] (turtlebot3_example) StderrLine: {'line': b'\n'}
+[2.305211] (turtlebot3_example) StderrLine: {'line': b'    turtlebot3_msgsConfig.cmake\n'}
+[2.305283] (turtlebot3_example) StderrLine: {'line': b'    turtlebot3_msgs-config.cmake\n'}
+[2.305354] (turtlebot3_example) StderrLine: {'line': b'\n'}
+[2.305425] (turtlebot3_example) StderrLine: {'line': b'  Add the installation prefix of "turtlebot3_msgs" to CMAKE_PREFIX_PATH or\n'}
+[2.305507] (turtlebot3_example) StderrLine: {'line': b'  set "turtlebot3_msgs_DIR" to a directory containing one of the above files.\n'}
+[2.305633] (turtlebot3_example) StderrLine: {'line': b'  If "turtlebot3_msgs" provides a separate development package or SDK, be\n'}
+[2.305734] (turtlebot3_example) StderrLine: {'line': b'  sure it has been installed.\n'}
+[2.305918] (turtlebot3_example) StderrLine: {'line': b'Call Stack (most recent call first):\n'}
+[2.306019] (turtlebot3_example) StderrLine: {'line': b'  CMakeLists.txt:10 (find_package)\n'}
+[2.306101] (turtlebot3_example) StderrLine: {'line': b'\n'}
+[2.306171] (turtlebot3_example) StderrLine: {'line': b'\n'}
+[2.306257] (turtlebot3_example) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[2.306372] (turtlebot3_example) StdoutLine: {'line': b'See also "/home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example/CMakeFiles/CMakeOutput.log".\n'}
+[2.306454] (turtlebot3_example) StdoutLine: {'line': b'See also "/home/ingeolko/turtlebot3-master/turtlebot3_example/build/turtlebot3_example/CMakeFiles/CMakeError.log".\n'}
+[2.310061] (turtlebot3_example) CommandEnded: {'returncode': 1}
+[2.332602] (turtlebot3_example) JobEnded: {'identifier': 'turtlebot3_example', 'rc': 1}
+[2.343849] (-) EventReactorShutdown: {}

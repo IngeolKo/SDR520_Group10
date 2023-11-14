@@ -1,0 +1,7 @@
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3 where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3 where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+Built target tests
+CMake Error: The current CMakeCache.txt directory /home/ingeolko/turtlebot3-master-IngeolKo/turtlebot3-master/build/turtlebot3/CMakeCache.txt is different than the directory /home/ingeolko/turtlebot3-master/build/turtlebot3 where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/ingeolko/turtlebot3-master/install/turtlebot3/share/turtlebot3/package.xml

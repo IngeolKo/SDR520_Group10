@@ -1,0 +1,159 @@
+[0.015s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup
+[0.051s] -- Using CATKIN_DEVEL_PREFIX: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/devel
+[0.052s] -- Using CMAKE_PREFIX_PATH: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.052s] -- This workspace overlays: /home/ingeolko/turtlebot3-master/install/turtlebot3_teleop;/home/ingeolko/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[0.075s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[0.075s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[0.075s] -- Using Debian Python package layout
+[0.075s] -- Using empy: /usr/bin/empy
+[0.213s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.213s] -- Call enable_testing()
+[0.215s] -- Using CATKIN_TEST_RESULTS_DIR: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup/test_results
+[0.239s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[0.239s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[0.252s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[0.260s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[0.300s] -- catkin 0.7.29
+[0.300s] -- BUILD_SHARED_LIBS is on
+[0.645s] -- Configuring done
+[0.687s] -- Generating done
+[0.692s] -- Build files have been written to: /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup
+[0.695s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': /usr/bin/cmake /home/ingeolko/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup
+[0.699s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup -- -j4 -l4
+[0.744s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_cpp[0m
+[0.744s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_nodejs[0m
+[0.749s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_eus[0m
+[0.752s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_lisp[0m
+[0.753s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[0.753s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[0.759s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[0.762s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[0.763s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[0.767s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[0.770s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[0.772s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.773s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[0.777s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.779s] [  0%] Built target std_msgs_generate_messages_eus
+[0.783s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[0.786s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.786s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[0.792s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.794s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[0.796s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[0.799s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.804s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[0.804s] [  0%] Built target roscpp_generate_messages_py
+[0.806s] [  0%] Built target std_msgs_generate_messages_py
+[0.813s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[0.813s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[0.814s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.817s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[0.823s] [  0%] Built target roscpp_generate_messages_eus
+[0.823s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[0.824s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.826s] [  0%] Built target roscpp_generate_messages_lisp
+[0.833s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[0.833s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[0.841s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.844s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_cpp[0m
+[0.846s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.849s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.851s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_eus[0m
+[0.855s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[0.856s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[0.859s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[0.859s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[0.866s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[0.867s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.868s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.870s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[0.876s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.876s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[0.879s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_py[0m
+[0.881s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.886s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.887s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[0.891s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[0.895s] [  0%] Built target roscpp_generate_messages_cpp
+[0.895s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_py[0m
+[0.895s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[0.900s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[0.904s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[0.904s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[0.904s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.910s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.914s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[0.914s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_lisp[0m
+[0.917s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.923s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[0.923s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_nodejs[0m
+[0.924s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.932s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[0.944s] [35m[1mScanning dependencies of target turtlebot3_diagnostics[0m
+[0.987s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_diagnostics.dir/src/turtlebot3_diagnostics.cpp.o[0m
+[3.860s] [100%] [32m[1mLinking CXX executable devel/lib/turtlebot3_bringup/turtlebot3_diagnostics[0m
+[4.099s] [100%] Built target turtlebot3_diagnostics
+[4.114s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup -- -j4 -l4
+[4.153s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j4 -l4
+[4.201s] [35m[1mScanning dependencies of target tests[0m
+[4.212s] Built target tests
+[4.224s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j4 -l4
+[4.265s] Invoking command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target install -- -j4 -l4
+[4.311s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[4.311s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[4.311s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[4.313s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[4.332s] [  0%] Built target std_msgs_generate_messages_eus
+[4.333s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.333s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.340s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.351s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.356s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[4.358s] [  0%] Built target roscpp_generate_messages_py
+[4.358s] [  0%] Built target std_msgs_generate_messages_py
+[4.371s] [  0%] Built target geometry_msgs_generate_messages_eus
+[4.377s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.380s] [  0%] Built target roscpp_generate_messages_eus
+[4.382s] [  0%] Built target roscpp_generate_messages_lisp
+[4.394s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.400s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.400s] [  0%] Built target sensor_msgs_generate_messages_py
+[4.403s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[4.418s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[4.427s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.428s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.437s] [  0%] Built target std_msgs_generate_messages_nodejs
+[4.437s] [  0%] Built target sensor_msgs_generate_messages_eus
+[4.446s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[4.446s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[4.457s] [  0%] Built target roscpp_generate_messages_cpp
+[4.462s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.464s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.464s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[4.481s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.481s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.482s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[4.486s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[4.509s] [100%] Built target turtlebot3_diagnostics
+[4.532s] [36mInstall the project...[0m
+[4.539s] -- Install configuration: ""
+[4.540s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig/turtlebot3_bringup.pc
+[4.540s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[4.540s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[4.540s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[4.540s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics
+[4.541s] -- Set runtime path of "/home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics" to ""
+[4.541s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/create_udev_rules
+[4.543s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch
+[4.544s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_lidar.launch
+[4.544s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes
+[4.544s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes/description.launch.xml
+[4.545s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_core.launch
+[4.545s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_remote.launch
+[4.545s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_rpicamera.launch
+[4.546s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_model.launch
+[4.546s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_realsense.launch
+[4.547s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_robot.launch
+[4.547s] -- Installing: /home/ingeolko/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/99-turtlebot3-cdc.rules
+[4.551s] Invoked command in '/home/ingeolko/turtlebot3-master/build/turtlebot3_bringup' returned '0': /usr/bin/cmake --build /home/ingeolko/turtlebot3-master/build/turtlebot3_bringup --target install -- -j4 -l4
